@@ -3,7 +3,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Hackathon%20Winner-gold)
 
 > **Project Vision:** Moving from a "Static Registry" model to a "Dynamic Resource Allocation" framework using Unsupervised Machine Learning.
 
